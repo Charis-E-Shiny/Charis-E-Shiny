@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Charis E Shiny
-- 👀 I’m interested in Pull Requests! 🤣
+- 👀 I’m interested in games like Tetris! 🤣
 - 🌱 I’m currently learning to build apps and deploy them. (Flutter and Github Pages)
+  I recently bulit a simple version of Tetris! You can try it out here: https://charis-e-shiny.github.io/
 - 😄 Pronouns: she/her
 - ⚡ Think --> Think Different --> Think You 😊
 
