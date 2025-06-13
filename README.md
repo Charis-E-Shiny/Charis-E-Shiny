@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Charis E Shiny
 - 👀 I’m interested in Pull Requests! 🤣
-- 🌱 I’m currently learning FullStack (Python, Postgresql, Flask, Python, HTML, CSS, JavaScript, Figma)
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning to build apps and deploy them. (Flutter and Github Pages)
 - 😄 Pronouns: she/her
 - ⚡ Think --> Think Different --> Think You 😊
 
