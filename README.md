@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **echarisshiny@gmail.com**
 
-- ⚡ Fun fact **🌟 Youngest CAPM Certified Professional: Brian proudly holds the title of being the youngest Certified Associate in Project Management (CAPM)® recipient, showcasing not only technical prowess but also exceptional project management skills at an early stage in his career. 🏆💼 #YoungestCAPM #ProjectManagementProdigy**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/charis-e-shiny-9a7680325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charis-e-shiny-9a7680325/" height="30" width="40" /></a>
